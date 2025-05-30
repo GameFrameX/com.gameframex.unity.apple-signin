@@ -1,12 +1,16 @@
 # Changelog
 
-## [v1.4.5](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/tree/v1.4.5) (2025-05-29)
+## [1.4.6](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/tree/1.4.6) (2025-05-30)
 
-[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/compare/1.4.5...v1.4.5)
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/compare/1.4.5...1.4.6)
 
 ## [1.4.5](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/tree/1.4.5) (2025-05-29)
 
-[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/compare/v1.4.4...1.4.5)
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/compare/v1.4.5...1.4.5)
+
+## [v1.4.5](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/tree/v1.4.5) (2025-05-29)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/compare/v1.4.4...v1.4.5)
 
 ## [v1.4.4](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/tree/v1.4.4) (2024-11-03)
 
