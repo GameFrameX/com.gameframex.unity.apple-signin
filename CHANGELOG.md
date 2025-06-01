@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.4.7](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/tree/1.4.7) (2025-06-01)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/compare/1.4.6...1.4.7)
+
 ## [1.4.6](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/tree/1.4.6) (2025-05-30)
 
 [Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/compare/1.4.5...1.4.6)
