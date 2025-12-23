@@ -36,5 +36,19 @@
     "/AppleAuth.meta",
     "/docs",
     "/docs.meta"
-  ]
+  ],
+  "devDependencies": {
+    "semantic-release": "^24.2.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.cnb.cool/GameFrameX/npm/-/packages/"
+  },
+  "repository": {
+    "name": "com.gameframex.unity.apple-signin",
+    "url": "git+https://github.com/gameframex/com.gameframex.unity.apple-signin.git",
+    "type": "git"
+  }
 }
