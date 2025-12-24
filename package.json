@@ -1,7 +1,7 @@
 {
   "name": "com.gameframex.unity.apple-signin",
   "displayName": "Sign in with Apple",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "unity": "2020.3",
   "description": "Provides a Unity bridge to use the native Sign In With Apple method on iOS/iPadOS/tvOS/macOS devices",
   "author": {
