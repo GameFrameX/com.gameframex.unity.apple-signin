@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/gameframex/com.gameframex.unity.apple-signin/compare/1.4.7...1.5.0) (2025-12-24)
+
+
+### Features
+
+* **ci:** change ci ([d25ed0d](https://github.com/gameframex/com.gameframex.unity.apple-signin/commit/d25ed0d781b4f4a48ba9e202cda0b72cd6e1da7c))
+
 # Changelog
 
 ## [1.4.7](https://github.com/GameFrameX/com.gameframex.unity.apple-signin/tree/1.4.7) (2025-06-01)
